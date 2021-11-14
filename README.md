@@ -5,21 +5,17 @@ analysis of rumor spread in complex social networks using multiple parameters
 ### Social circles: Facebook
 This dataset consists of 'circles' (or 'friends lists') from Facebook. Facebook data was collected from survey participants using this Facebook app. 
 
-- Dataset statistics
+#### Dataset statistics
 
-|Nodes|	4039|
-
-|Edges|	88234|
-
-|Average clustering coefficient|	0.6055|
-
-|Number of triangles|	1612010|
-
-|Fraction of closed triangles|	0.2647|
-
-|Diameter (longest shortest path)|	8|
-
-|90-percentile effective diameter|	4.7|
+| Feature | Value |
+| --- | ----------- |
+| Nodes |	4039 |
+| Edges |	88234 |
+| Average clustering coefficient |	0.6055 |
+| Number of triangles |	1612010 |
+| Fraction of closed triangles |	0.2647 |
+| Diameter (longest shortest path) |	8 |
+| 90-percentile effective diameter |	4.7 |
 
 ## references 
 [1] M. Nekovee, Y. Moreno, G. Bianconi, and M. Marsili. Theory of rumour spreading in complex social networks. Physica A: Statistical Mechanics and its Applications,374(1):457–470, 2007
