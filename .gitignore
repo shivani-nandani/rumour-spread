@@ -1,4 +1,4 @@
 # Visual Studio Code cache/options directory
 .vscode/
-
+.ipynb_checkpoints/
 data/
