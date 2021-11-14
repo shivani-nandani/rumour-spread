@@ -8,11 +8,17 @@ This dataset consists of 'circles' (or 'friends lists') from Facebook. Facebook 
 - Dataset statistics
 
 |Nodes|	4039|
+
 |Edges|	88234|
+
 |Average clustering coefficient|	0.6055|
+
 |Number of triangles|	1612010|
+
 |Fraction of closed triangles|	0.2647|
+
 |Diameter (longest shortest path)|	8|
+
 |90-percentile effective diameter|	4.7|
 
 ## references 
