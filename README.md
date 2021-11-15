@@ -3,6 +3,8 @@ analysis of rumor spread in complex social networks using multiple parameters
 
 ## dataset(s):
 ### Social circles: Facebook
+Link - http://snap.stanford.edu/data/ego-Facebook.html
+
 This dataset consists of 'circles' (or 'friends lists') from Facebook. Facebook data was collected from survey participants using this Facebook app. 
 
 | Dataset statistics |  |
