@@ -5,9 +5,7 @@ analysis of rumor spread in complex social networks using multiple parameters
 ### Social circles: Facebook
 This dataset consists of 'circles' (or 'friends lists') from Facebook. Facebook data was collected from survey participants using this Facebook app. 
 
-#### Dataset statistics
-
-| Feature | Value |
+| Dataset statistics |  |
 | --- | ----------- |
 | Nodes |	4039 |
 | Edges |	88234 |
