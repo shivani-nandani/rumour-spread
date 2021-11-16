@@ -23,7 +23,7 @@ This dataset consists of 'circles' (or 'friends lists') from Facebook. Facebook 
 - implementation and analysis of SICR model <cite>[4]</cite> - [SICR.ipynb](https://github.com/shivani-nandani/rumor-spread/blob/main/SICR.ipynb)
 - implementation of SICHR model with Trust Mechanism - [SIHCR_Trust.ipynb](https://github.com/shivani-nandani/rumor-spread/blob/main/SIHCR_Trust.ipynb)
 - analysis of models on Facebook Social Circles network <cite>[5]</cite> - [facebook_network_analysis.ipynb](https://github.com/shivani-nandani/rumor-spread/blob/main/facebook_network_analysis.ipynb)
-- block diagram of SIHCR model with Trust Mechanism - 
+- block diagram of SIHCR model with Trust Mechanism - [SIHCR_trust_block_dia.png](https://github.com/shivani-nandani/rumor-spread/blob/main/SIHCR_trust_block_dia.png)
 
 ## references 
 [1] M. Nekovee, Y. Moreno, G. Bianconi, and M. Marsili. Theory of rumour spreading in complex social networks. Physica A: Statistical Mechanics and its Applications,374(1):457–470, 2007
