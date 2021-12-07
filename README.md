@@ -1,4 +1,4 @@
-# rumor-spread
+# rumour-spread
 analysis of rumor spread in complex social networks using multiple parameters - trust mechanism, hibernation and counterattack. 
 
 ## dataset(s):
